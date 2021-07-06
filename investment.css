@@ -380,6 +380,7 @@ a {
   border: none;
   color: #9ABEDF;
   font-size: 14px;
+  padding: 5px;
   cursor: pointer;
   outline: none;
 }
@@ -495,6 +496,7 @@ a {
       width: 320px;
       height: 320px;
       border-radius: 20px;
+      margin-top: 5vh;;
       margin-bottom: 5vh;
       display: inline-block;
     }
