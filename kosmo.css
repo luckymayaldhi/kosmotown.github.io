@@ -44,6 +44,7 @@ h3 {
 p {
     font-family: extlight;
     font-size: 14px;
+    font-weight: 700;
 }
 
 
@@ -247,7 +248,7 @@ a {
 
     .budaya__kami .info hr {
         width: 15%;
-        border: 3px solid var(--clr-primary) !important;
+        border-top: 5spx solid var(--clr-primary) !important;
         display: inline-block !important;
     }
 }
@@ -260,7 +261,7 @@ a {
 
     .budaya__kami .info hr {
         width: 10%;
-        border: 3px solid var(--clr-primary) !important;
+        border-top: 5px solid var(--clr-primary) !important;
         display: inline-block !important;
     }
 }

@@ -221,7 +221,7 @@ a {
 
 .jumbotron hr {
     width: 25%;
-    border: 3px solid var(--clr-primary) !important;
+    border-top: 5px solid var(--clr-primary) !important;
     display: inline-block !important;
 }
 
@@ -449,13 +449,13 @@ a {
 
 .kosmo hr {
     width: 15%;
-    border: 3px solid var(--clr-primary)!important;
+    border-top: 5px solid var(--clr-primary)!important;
     display: inline-block !important;
 }
 
 .bri hr {
     width: 20%;
-    border: 3px solid var(--clr-primary)!important;
+    border-top: 5px solid var(--clr-primary) !important;
     display: inline-block !important;
 }
 
@@ -480,7 +480,7 @@ a {
 
 .defg hr {
     width: 8%;
-    border: 3px solid var(--clr-primary)!important;
+    border-top: 5px solid var(--clr-primary) !important;
     display: inline-block;
 }
 
@@ -495,7 +495,7 @@ a {
 
 .vr hr {
     width: 15%;
-    border: 3px solid var(--clr-primary)!important;
+    border-top: 5px solid var(--clr-primary) !important;
     display: inline-block;
 }    
 
@@ -514,7 +514,7 @@ a {
 
 .faq hr {
     width: 17%;
-    border: 3px solid var(--clr-primary)!important;
+    border-top: 5px solid var(--clr-primary) !important;
     display: inline-block;
 }
 
@@ -524,7 +524,7 @@ a {
 
 .location hr {
     width: 10%;
-    border: 3px solid var(--clr-primary)!important;
+    border-top: 5px solid var(--clr-primary)!important;
     display: inline-block !important;
 }
 
@@ -562,13 +562,13 @@ a {
 
     .kosmo hr {
         width: 15%;
-        border: 3px solid var(--clr-primary)!important;
+        border-top: 5px solid var(--clr-primary) !important;
         display: inline-block !important;
     }
 
     .bri hr {
         width: 20%;
-        border: 3px solid var(--clr-primary)!important;
+        border-top: 5px solid var(--clr-primary) !important;
         display: inline-block !important;
     }
 
@@ -594,7 +594,7 @@ a {
 
     .defg hr {
         width: 10%;
-        border: 3px solid var(--clr-primary)!important;
+        border-top: 5px solid var(--clr-primary) !important;
         display: inline-block !important;
     }
 
@@ -608,7 +608,7 @@ a {
 
     .vr hr {
         width: 25%;
-        border: 3px solid var(--clr-primary)!important;
+        border-top: 5px solid var(--clr-primary) !important;
         display: inline-block !important;
     }
 
@@ -627,7 +627,7 @@ a {
 
 .faq hr {
     width: 17%;
-    border: 3px solid var(--clr-primary)!important;
+    border-top: 5px solid var(--clr-primary) !important;
     display: inline-block;
 }
 
@@ -640,7 +640,7 @@ a {
 
 .location hr {
     width: 8%;
-    border: 3px solid var(--clr-primary)!important;
+    border-top: 5px solid var(--clr-primary) !important;
     display: inline-block !important;
 }
 

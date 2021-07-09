@@ -44,6 +44,7 @@ h3 {
 p {
     font-family: extlight;
     font-size: 14px;
+    font-weight: 700;
 }
 
 
@@ -311,13 +312,13 @@ a {
 
     .design__unit .design__unit__heading hr {
         width: 13%;
-        border: 3px solid var(--clr-primary)!important;
+        border-top: 5px solid var(--clr-primary)!important;
         display: inline-block;
     }
 
     .facility .row .col-md-12 hr {
         width: 15%;
-        border: 3px solid var(--clr-primary) !important;
+        border-top: 5px solid var(--clr-primary) !important;
         display: inline-block;
     }
 
@@ -327,7 +328,7 @@ a {
 
     .gallery .row .col-md-12 hr {
         width: 13%;
-        border: 3px solid var(--clr-primary) !important;
+        border-top: 5px solid var(--clr-primary) !important;
         display: inline-block;
     }
 
@@ -346,19 +347,19 @@ a {
 
     .design__unit .design__unit__heading hr {
         width: 10%;
-        border: 3px solid var(--clr-primary)!important;
+        border-top: 5px solid var(--clr-primary)!important;
         display: inline-block;
     }
 
     .facility .row .col-md-12 hr {
         width: 12%;
-        border: 3px solid var(--clr-primary) !important;
+        border-top: 5px solid var(--clr-primary) !important;
         display: inline-block;
     }
 
     .gallery .row .col-md-12 hr {
         width: 10%;
-        border: 3px solid var(--clr-primary) !important;
+        border-top: 5px solid var(--clr-primary) !important;
         display: inline-block;
     }
 
@@ -383,7 +384,7 @@ a {
 
     .design__unit .design__unit__heading hr {
         width: 8%;
-        border: 3px solid var(--clr-primary)!important;
+        border-top: 5px solid var(--clr-primary)!important;
         display: inline-block;
     }
 
@@ -409,7 +410,7 @@ a {
 
     .design__unit .design__unit__heading hr {
         width: 6%;
-        border: 3px solid var(--clr-primary)!important;
+        border-top: 5px solid var(--clr-primary)!important;
         display: inline-block;
     }
 

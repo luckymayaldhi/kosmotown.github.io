@@ -258,7 +258,7 @@ a {
 
 .investment__kosmotown .row .col-md-6 .panel hr {
     width: 20%;
-    border: 3px solid var(--clr-primary) !important;
+    border-top: 5px solid var(--clr-primary) !important;
     display: inline-block;
 }
 
@@ -482,7 +482,7 @@ a {
 
     .investment__page hr {
       width: 20%;
-      border: 3px solid var(--clr-primary)!important;
+      border-top: 5px solid var(--clr-primary)!important;
       display: inline-block;
     }
 
@@ -503,7 +503,7 @@ a {
 
     .investment__kosmotown hr {
       width: 20%;
-      border: 3px solid var(--clr-primary)!important;
+      border-top: 5px solid var(--clr-primary)!important;
       display: inline-block;
     }
 
@@ -524,7 +524,7 @@ a {
 
       .investment__page hr {
         width: 20%;
-        border: 3px solid var(--clr-primary) !important;
+        border-top: 5px solid var(--clr-primary) !important;
         display: inline-block;
       }
 
