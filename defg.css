@@ -273,6 +273,67 @@ a {
   }
 }
 
+.footer {
+    background: linear-gradient(rgba(37, 37, 37, 0.1), rgba(37, 37, 37, 0.9)), url('images/home__page/footer__fix.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+    justify-content: center;
+    align-items: center;
+}
+
+.footer p,
+h5 {
+    font-family: extlight;
+}
+
+.footer .heading h5 {
+    font-family: markotbold;
+}
+
+.footer .instagram {
+    font-size: 24px;
+    color: white;
+}
+
+@media (max-width: 500px) {
+
+    .footer {
+        height: 130vh;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+    }
+
+    .footer .socmed img {
+        width: 40%;
+        display: inline-block;
+    }
+
+    .footer .username .instagram {
+        font-size: 70px;
+    }
+
+    .bri__footer img {
+        width: 30%;
+        display: inline-block;
+    }
+
+    .footer .address {
+        margin-top: 1vh;
+    }
+
+    .footer .copyright {
+        margin-top: 1vh;
+    }
+
+    .footer .heading {
+        font-family: markotbold;
+    }
+
+}
+
 @media (max-width: 767px) {
 
 .nav-item:after{
@@ -340,6 +401,35 @@ a {
         margin-top: 3vh;
     }
 
+    .footer {
+        text-align: center;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .footer .socmed img {
+        width: 30%;
+        display: inline-block;
+    }
+
+    .footer .username .instagram {
+        font-size: 80px;
+    }
+
+    .bri__footer img {
+        width: 20%;
+        display: inline-block;
+    }
+
+    .footer .heading {
+        font-family: markotbold;
+    }
+
+    .footer div {
+        padding-top: 3vh;
+    }
+
 
 }
 
@@ -378,6 +468,39 @@ a {
         top: 22%;
     }
 
+    .footer {
+        text-align: center;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .footer .socmed img {
+        width: 15%;
+        display: inline-block;
+    }
+
+    .bri__footer img {
+        width: 50%;
+        display: inline-block;
+    }
+
+    .footer .address {
+        padding-top: 7vh;
+    }
+
+    .footer .username .instagram {
+        font-size: 75px;
+    }
+
+    .footer .heading {
+        font-family: markotbold;
+    }
+
+    .footer .ig {
+        margin-top: -2.5vh;
+    }
+
 }
 
 @media (min-width: 992px) {
@@ -403,6 +526,14 @@ a {
 
     .gallery__info p {
         top: 30%;
+    }
+
+    .footer .heading {
+        font-family: markotbold;
+    }
+
+    .footer .username .instagram {
+        font-size: 90px;
     }
 }
 
@@ -434,6 +565,14 @@ a {
     .gallery__info p {
         top: 35%;
         font-size: 16px;
+    }
+
+    .footer .heading {
+        font-family: markotbold;
+    }
+
+    .footer .username .instagram {
+        font-size: 115px;
     }
 
 }
