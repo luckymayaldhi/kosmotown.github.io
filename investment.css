@@ -480,6 +480,10 @@ h5 {
   .footer .heading {
     font-family: markotbold;
   }
+
+  .footer .copyright p {
+    font-size: 12px;
+  }
 }
 
 @media screen and (max-width: 600px) {

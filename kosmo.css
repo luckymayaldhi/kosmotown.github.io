@@ -264,6 +264,10 @@ h5 {
         font-family: markotbold;
     }
 
+    .footer .copyright p {
+        font-size: 12px;
+    }
+
 }
 
 @media (max-width: 767px) {
